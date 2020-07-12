@@ -1,5 +1,5 @@
 # expressapp01
-**Set up nodejs environment for espress**
+**Set up nodejs environment for express**
 
  - npm init  
  - npm install express
