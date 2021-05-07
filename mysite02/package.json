@@ -15,7 +15,7 @@
     "morgan": "~1.9.1"
   },
   "devDependencies": {
-    "grunt": "^1.2.1",
+    "grunt": "^1.3.0",
     "grunt-nodemon": "^0.4.2",
     "nodemon": "^2.0.4"
   },
