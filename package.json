@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/Nareshcbit/expressapp01#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   },
   "devDependencies": {
     "eslint": "^7.4.0",
